@@ -34,7 +34,7 @@ while True:
 print()
 
 
-# Решение со stack overflow с модульной арифметикой :) -->
+# Решение со stack overflow :) -->
 
 # n, m = map(int, input().split())
 #
