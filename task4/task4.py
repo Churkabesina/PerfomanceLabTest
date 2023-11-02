@@ -1,4 +1,6 @@
-path = input()
+from sys import argv
+
+path = argv[1]
 
 nums = []
 

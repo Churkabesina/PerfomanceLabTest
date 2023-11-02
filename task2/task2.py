@@ -1,4 +1,6 @@
-paths = input().split()
+from sys import argv
+
+paths = argv[1:]
 
 krug_center = []
 krug_radius = 0
